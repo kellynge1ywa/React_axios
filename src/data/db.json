@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "shoes",
+      "name": "Shoes",
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrR_VvLy3HYbsqzU7IKn8M5CQhguNszaK1pQ&s",
+      "price": 500
+    },
+    {
+      "id": "jeans_Trouser",
+      "name": "Jeans Trouser",
+      "imageurl": "https://images-cdn.ubuy.co.in/6362fbf10c33dd10fa661703-men-39-s-side-pocket-pencil-jeans.jpg",
+      "price": 500
+    },
+    {
+      "id": "c7e09442-f896-437a-9f5a-1b3477e1b1c4",
+      "name": "Laptop",
+      "imageurl": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/22a475e555d7-best-laptop-deals.jpg",
+      "price": "35000"
+    },
+    {
+      "id": "66da5504-7336-4272-be09-d1ae6ca07dc9",
+      "name": "Tablet",
+      "imageurl": "https://cdn.thewirecutter.com/wp-content/media/2023/11/androidtablets-2048px-05895.jpg?auto=webp&quality=75&width=1024",
+      "price": "60000"
+    },
+    {
+      "id": "f8717c92-46ac-4f69-ad63-698c8b7eab05",
+      "name": "Samsung",
+      "imageurl": "https://phonesstorekenya.com/wp-content/uploads/2024/01/Samsung-Galaxy-A15-4G.jpg",
+      "price": "100000"
+    }
+  ]
+}
